@@ -1,9 +1,8 @@
-I'll write this paper soon :)
 - 👋 Hi, I’m @2REBCat
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Cyber security, AI and every knowledge of Computer Science!
+- 🌱 I want to study all my life.
+- ✍ I write everything what I learn, but there can be error, misunderstanding, etc.😥
+  - If you find something wrong, please let me know. I'll make it correct.
 
 <!---
 2REBCat/2REBCat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
